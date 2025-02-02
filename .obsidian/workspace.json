@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/Video_ACG_SexCensorship/ACG_SexCensorship_Script.md",
+                "file": "1_Projects/Video_ACG_SexCensorship/ACG_SexCensorship_Refs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ACG_SexCensorship_Script"
+              "title": "ACG_SexCensorship_Refs"
             }
           }
         ]
@@ -192,14 +192,14 @@
   },
   "active": "766c97f2f0038967",
   "lastOpenFiles": [
-    "3_Resources/Saori_Incident.md",
+    "3_Resources/Japan_ACGObscenity PdctLegalExplain.md",
     "1_Projects/Video_ACG_SexCensorship/ACG_SexCensorship_Script.md",
+    "3_Resources/Saori_Incident.md",
     "3_Resources/CERO_And_EOCS.md",
-    "3_Resources/EOCS_JapanCensorship.md",
-    "2_Areas/Youtube/Script_Style.md",
     "3_Resources/CERO_JapanCensorship.md",
     "1_Projects/Video_ACG_SexCensorship/ACG_SexCensorship_Refs.md",
-    "3_Resources/Japan_ACGObscenity PdctLegalExplain.md",
+    "3_Resources/EOCS_JapanCensorship.md",
+    "2_Areas/Youtube/Script_Style.md",
     "3_Resources/Lolicon_Controversy.md",
     "3_Resources/Japan_ObscenityLaw175_Explained.md",
     "3_Resources/Steam_AdultGameBanCases.md",
