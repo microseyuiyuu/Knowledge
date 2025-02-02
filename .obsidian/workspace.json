@@ -177,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,8 +193,8 @@
   "active": "766c97f2f0038967",
   "lastOpenFiles": [
     "3_Resources/Saori_Incident.md",
-    "3_Resources/CERO_And_EOCS.md",
     "1_Projects/Video_ACG_SexCensorship/ACG_SexCensorship_Script.md",
+    "3_Resources/CERO_And_EOCS.md",
     "3_Resources/EOCS_JapanCensorship.md",
     "2_Areas/Youtube/Script_Style.md",
     "3_Resources/CERO_JapanCensorship.md",
